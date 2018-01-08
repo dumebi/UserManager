@@ -2,6 +2,7 @@
 # Start Application
     -Install Python
     -Install Docker
+    -Run pip install docker-compose
     -Navigate to folder and run Start.py
 
 # User Manager
