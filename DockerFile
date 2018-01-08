@@ -1,0 +1,8 @@
+FROM node:6
+WORKDIR /app
+COPY package.json /app
+COPY .env-sample /app/.env
+RUN npm install
+COPY . /app
+EXPOSE 3000
+CMD [ "npm", "start" ]
