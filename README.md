@@ -1,4 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Start Application
+    -Install Python
+    -Install Docker
+    -Navigate to folder and run Start.py
 
 # User Manager
 
